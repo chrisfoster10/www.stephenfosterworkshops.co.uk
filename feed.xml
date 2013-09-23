@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DD252B3E-345E-43E6-B304-C937EC84B645</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-08-01T08:46:35+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:FC956172-D0B7-4668-8156-1912AA391F57</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">FC956172-D0B7-4668-8156-1912AA391F57</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2013-08-01T08:46:35.001+01:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:63679258-EC31-4E99-923E-E5EAA42EC300</id>
+  <title>Workshops Dates</title>
+  <title xmlns="urn:iweb:">Workshops Dates</title>
+  <in-navbar xmlns="urn:iweb:">63679258-EC31-4E99-923E-E5EAA42EC300</in-navbar>
+  <link rel="alternate" href="Workshops_Dates.html"/>
+  <updated>2013-08-01T08:46:35.002+01:00</updated>
+  <content>Workshops Dates</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3811EA23-503E-4DEC-8F23-D587882232A4</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">3811EA23-503E-4DEC-8F23-D587882232A4</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2013-08-01T08:46:35.003+01:00</updated>
+  <content>Contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:504BCACF-7E3B-49D8-A432-D796870F69CB</id>
+  <title>Location</title>
+  <title xmlns="urn:iweb:">Location</title>
+  <in-navbar xmlns="urn:iweb:">504BCACF-7E3B-49D8-A432-D796870F69CB</in-navbar>
+  <link rel="alternate" href="Location.html"/>
+  <updated>2013-08-01T08:46:35.004+01:00</updated>
+  <content>Location</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1AA81561-DEDF-4519-90E0-20C0AEE9EED8</id>
+  <title>Links</title>
+  <title xmlns="urn:iweb:">Links</title>
+  <in-navbar xmlns="urn:iweb:">1AA81561-DEDF-4519-90E0-20C0AEE9EED8</in-navbar>
+  <link rel="alternate" href="Links.html"/>
+  <updated>2013-08-01T08:46:35.005+01:00</updated>
+  <content>Links</content>
+ </entry>
+</feed>
